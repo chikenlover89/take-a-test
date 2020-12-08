@@ -9,4 +9,4 @@
 * 7.Launch the project with command: php -S localhost:8000
 * 8.Open page localhost:8000 in your browser
 
-* Alternative to 2 and 6 points. Use command 'mysql -u [username] –p[password] [database_name] < tests_localhost-2020_12_08_21_37_30-dump.sql dumpfile' in sqlDump folder
+* Alternative to 2 and 6 points. Use command 'mysql -u [username] –p[password] [database_name] < tests_localhost-2020_12_08_21_37_30-dump.sql' in sqlDump folder
