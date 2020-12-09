@@ -1,4 +1,4 @@
-# take-a-test INSTRUCTIONS for Linux OS
+# take-a-test INSTRUCTIONS
 
 1. Clone repository with command 'git clone https://github.com/chikenlover89/take-a-test.git'
 2. Create an empty mysql database or use existing that does not have table with names 'table_status','table_tests'
